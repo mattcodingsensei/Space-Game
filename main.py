@@ -277,7 +277,7 @@ def plCmds():
       time.sleep(0.7)
       dType("You are satisfied and have left the planet.\n")
       time.sleep(1)
-      replit.clear()
+    #   replit.clear()
     
     else:
       dType("While you were mining for resources, you ran into a strange creature!\n")
@@ -325,7 +325,7 @@ def plCmds():
     time.sleep(0.8)
     dType(".\n")
     time.sleep(1)
-    replit.clear()
+    # replit.clear()
   else:
     plCmds()
 
@@ -376,7 +376,7 @@ def cmds():
       time.sleep(0.8)
       dType(".\n")
       time.sleep(1)
-      replit.clear()
+    #   replit.clear()
       plCmds()
 
       
@@ -390,7 +390,7 @@ def cmds():
         fuel = 0
         reso = 0
         time.sleep(1)
-        replit.clear()
+        # replit.clear()
       else:
         dType("Oh no! It seems you don't have enough resources and/or fuel!\n")
         time.sleep(0.4)
@@ -402,12 +402,12 @@ def cmds():
         reso = 0
         pl.nextGal()
         dType("You have earned enough materials to head to the next galaxy!\n")
-        replit.clear()
+        # replit.clear()
       else:
         dType("Oh no! It seems you don't have enough resources and/or fuel!\n")
         time.sleep(0.4)
         dType("Head back to other planets to look for those items!\n")
-        replit.clear()
+        # replit.clear()
     elif galaxy == 3:
       if fuel >= 100 and reso >= 100:
         galaxy += 1
