@@ -15,8 +15,14 @@ Copy the repository into a directory of your choice.
 At the top right click on the 'play' icon.
 The game will start in your terminal.
 
-![Image Alt text](/images/beginningOfGame.png "Beginning of Game Screenshot"))
+### Start of Game
 ***************************************************************************
-![Image Alt text](/images/playerStats.png "Beginning of Game Screenshot"))
+![Image Alt text](/images/beginningOfGame.png "Beginning of Game"))
 ***************************************************************************
-![Image Alt text](/images/planetOptions.png "Beginning of Game Screenshot"))
+### Player Stats
+***************************************************************************
+![Image Alt text](/images/playerStats.png "Player Stats"))
+***************************************************************************
+### Planet Options
+***************************************************************************
+![Image Alt text](/images/planetOptions.png "Planet Options"))
