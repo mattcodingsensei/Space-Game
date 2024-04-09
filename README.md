@@ -12,3 +12,7 @@ At the top right click on the 'play' icon.
 The game will start in your terminal.
 
 ![Image Alt text](/images/beginningOfGame.png "Beginning of Game Screenshot"))
+***************************************************************************
+![Image Alt text](/images/playerStats.png "Beginning of Game Screenshot"))
+***************************************************************************
+![Image Alt text](/images/planetOptions.png "Beginning of Game Screenshot"))
