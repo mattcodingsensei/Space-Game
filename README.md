@@ -10,3 +10,5 @@ Make sure to have Python3, Visual Studio Code Editor, & Python3 VS Code extensio
 Copy the repository into a directory of your choice.
 At the top right click on the 'play' icon.
 The game will start in your terminal.
+
+![Image Alt text](/images/beginningOfGame.png "Beginning of Game Screenshot"))
